@@ -20,7 +20,7 @@ author: Shawn Chartrand
 ###############################################
 
 navbar-links:
-  Home: "https://andersonsam.github.io"
+  # Home: "https://andersonsam.github.io"
   About Me: "aboutme"
   Team: "team"
   Teaching: "teaching"
