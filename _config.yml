@@ -20,8 +20,7 @@ author: Shawn Chartrand
 ###############################################
 
 navbar-links:
-  # Home: "https://andersonsam.github.io"
-  About Me: "aboutme"
+  Home: "https://andersonsam.github.io"
   Team: "team"
   Teaching: "teaching"
   Publications: "publications"
@@ -75,7 +74,7 @@ social-network-links:
 #  calendly: yourname
 #  mastodon: instance.url/@username
 #  bluesky: yourname
- ORCID: "https://orcid.org/0000-0002-9309-1137"
+ # ORCID: "https://orcid.org/0000-0002-9309-1137"
  # google-scholar: https://scholar.google.com/citations?user=AjY9_HAAAAAJ&hl=en
 #  discord: "invite_code" or "users/userid" or "invite/invite_code"
 #  kaggle: yourname
