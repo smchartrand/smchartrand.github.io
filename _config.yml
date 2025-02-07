@@ -21,10 +21,10 @@ author: Shawn Chartrand
 
 navbar-links:
   About Me: "aboutme"
-  Team: "team.md"
-  Teaching: "teaching.md"
-  Publications: "publications.md"
-  Contact: "contact.md"
+  Team: "team"
+  Teaching: "teaching"
+  Publications: "publications"
+  Contact: "contact"
 
 ################
 # --- Logo --- #
