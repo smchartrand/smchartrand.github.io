@@ -20,11 +20,11 @@ author: Shawn Chartrand
 ###############################################
 
 navbar-links:
-  About Me: "Home"
-  Team: "Team"
-  Teaching: "Teaching"
-  Publications: "Publications"
-  Contact: "Contact"
+  About Me: "aboutme"
+  # Team: "Team"
+  # Teaching: "Teaching"
+  # Publications: "Publications"
+  # Contact: "Contact"
 
 ################
 # --- Logo --- #
