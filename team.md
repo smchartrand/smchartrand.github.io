@@ -16,13 +16,13 @@ subtitle: Current and past group members
 
 ## MSc students 
 
-<img src="/assets/img/grace.jpg" align="left" width="150px"/>
+<img src="/assets/img/grace.jpg" align="left" width="150px" style="margin-right: 1.5rem"/>
 <strong>Grace Johnson</strong>: Grace uses applied physics to develop theories that explain how hillslope water streaks form and evolve in the Canadian High Arctic. Her research has implications for understanding how river basin hydrology will evolve more broadly in permafrost and periglacial environments under climate change.
 <br clear="left"/>
 
 ## Postdoctoral research fellows
 
-<img src="/assets/img/sam.jpg" align="left" width="150px"/>
+<img src="/assets/img/sam.jpg" align="left" width="150px" style="margin-right: 1.5rem"/>
 <strong>Sam Anderson</strong>: Sam researches the hydrological impacts of heatwaves, focusing on the streamflow response to historical extreme events and the spatial and temporal variability of heatwave-precipitation characteristics.
 <br clear="left"/>
 
