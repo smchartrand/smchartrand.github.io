@@ -10,8 +10,6 @@ subtitle: Shawn M. Chartrand, PhD, P.G., CEG
 
 ___ 
 
-# Research Themes 
-
 ## High Arctic hydrology and geomorpholgy in the context of climate change 
 
 The Arctic is warming faster than anywhere else on Earth, with profound consequences on the landscape. Yet, we lack fundamental understanding as to how many landscape features form in High Arctic environments, and as such, we do not know how High Arctic rivers and landscapes will evolve under future climate change. Here we use field campaigns and labratory experiments to inform a deeper understanding of how these remarkable environments are changing before our eyes.
@@ -27,3 +25,5 @@ Sediment transport is a stochastic process, characterized by rates of sediment e
 ## Science-based River Restoration and Management Methods. 
 
 Mountain streams commonly exhibit pool-riffle and step-pool riverbed shapes, and professional geomorphologists and engineers commonly must develop design approaches to reconstruct mountain and lowland river segments using step-pool and pool-riffle morphologies. But how does one go about designing these features? How do we know if constructed elements will persist under moderate flood stages, and how much adjustment in the constructed condition can be expected? Here we guide design development for a number of projects in rural and urban settings throughout California and Oregon, including dam removal projects. 
+
+<img src="/assets/img/shuswap_stream.jpg" alt="camp"/> 
