@@ -1,5 +1,6 @@
 ---
 layout: page
 title: Teaching
-subtitle: Past and present courses
 ---
+
+<img src="/assets/img/atv_terrain.jpeg" alt="camp"/> 
