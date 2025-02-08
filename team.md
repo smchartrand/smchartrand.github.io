@@ -10,7 +10,7 @@ subtitle: Current and past group members
 
 ## PhD students 
 
-<img src="/assets/img/jonas.jpg" align="left" width="150px" padding-right="20px"/>
+<img src="/assets/img/jonas.jpg" align="left" width="150px" style="margin-right: 1.5rem"/>
 <strong>Jonas Eschenfelder</strong>: Jonas is interested in how ground ice changes sediment transport dynamics to form new channel networks in permafrost regions. To explore this topic, they use flume experiments and field observations from the Canadian High Arctic.
 <br clear="left"/>
 
