@@ -10,4 +10,4 @@ subtitle: Shawn M. Chartrand, PhD, P.G., CEG
 
 This is test text 
 
-<img src="/assets/img/camp.jpg" alt="camp"/> 
+<img src="/assets/img/camp.jpeg" alt="camp"/> 
