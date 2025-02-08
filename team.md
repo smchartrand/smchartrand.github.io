@@ -4,6 +4,8 @@ title: Team
 subtitle: Current and past group members
 ---
 
+<img src="/assets/img/haughton.jpg" alt="camp"/> 
+
 # Current members 
 
 ## PhD students 
