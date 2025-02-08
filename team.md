@@ -6,8 +6,6 @@ subtitle: Current and past group members
 
 <img src="/assets/img/haughton.jpg" alt="camp"/> 
 
-# Current members 
-
 ## PhD students 
 
 <img src="/assets/img/jonas.jpg" align="left" width="150px" style="margin-right: 1.5rem"/>
