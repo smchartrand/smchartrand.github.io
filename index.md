@@ -27,3 +27,24 @@ Sediment transport is a stochastic process, characterized by rates of sediment e
 Mountain streams commonly exhibit pool-riffle and step-pool riverbed shapes, and professional geomorphologists and engineers commonly must develop design approaches to reconstruct mountain and lowland river segments using step-pool and pool-riffle morphologies. But how does one go about designing these features? How do we know if constructed elements will persist under moderate flood stages, and how much adjustment in the constructed condition can be expected? Here we guide design development for a number of projects in rural and urban settings throughout California and Oregon, including dam removal projects. 
 
 <img src="/assets/img/shuswap_stream.jpg" alt="camp"/> 
+
+# News of the lab 
+
+*February 7, 2025* 
+
+LDL postdoc Sam Anderson submitted a short film to the 2025 Polar Film Festival, exploring our 2024 field season on Devon Island, Nunavut. Check out the video below!
+
+[![daysondevon](https://img.youtube.com/vi/PtoSEqYTIjk/0.jpg)](https://www.youtube.com/watch?v=PtoSEqYTIjk)
+
+___
+
+*November 1, 2024*
+
+Congrats to Shawn and Sam, who just published two papers exploring the spatial and temporal relationships between heatwaves and streamflow!
+
+[**Link to SFU news coverage**](https://www.sfu.ca/evsc/news-events/new-research--dr--shawn-chartrand-and-dr--sam-anderson-examine-t.html)
+
+[**Link to paper in Earth's Future**](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024EF004962)
+
+[**Link to paper in Environmental Research Letters**](https://iopscience.iop.org/article/10.1088/1748-9326/ad7ede)
+___
