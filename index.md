@@ -22,13 +22,15 @@ Heatwaves are becoming longer, hotter, and more frequent. Yet, we have relativel
 
 Sediment transport is a stochastic process, characterized by rates of sediment entrainment and deposition that vary in time and space. However, the theory we commonly apply to describe the transport process is primarily deterministic, and assumes the randomness of transport and sediment motions is well described by average conditions. Here, we use experiments and field evidence to develop new theories that link the probabilistic and deterministic views of sediment transport, and we use these theories to better understand the fundamentals of both how and why rivers are the way that they are.
 
-## Science-based River Restoration and Management Methods. 
+## Science-based river restoration and management methods
 
 Mountain streams commonly exhibit pool-riffle and step-pool riverbed shapes, and professional geomorphologists and engineers commonly must develop design approaches to reconstruct mountain and lowland river segments using step-pool and pool-riffle morphologies. But how does one go about designing these features? How do we know if constructed elements will persist under moderate flood stages, and how much adjustment in the constructed condition can be expected? Here we guide design development for a number of projects in rural and urban settings throughout California and Oregon, including dam removal projects. 
 
 <img src="/assets/img/shuswap_stream.jpg" alt="camp"/> 
 
 # News of the lab 
+
+___ 
 
 *February 7, 2025* 
 
@@ -46,5 +48,6 @@ Congrats to Shawn and Sam, who just published two papers exploring the spatial a
 
 [**Link to paper in Earth's Future**](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024EF004962)
 
-[**Link to paper in Environmental Research Letters**](https://iopscience.iop.org/article/10.1088/1748-9326/ad7ede)
+[**Link to paper in Environmental Research Letters**](https://iopscience.iop.org/article/10.1088/1748-9326/ad7ede) 
+
 ___
