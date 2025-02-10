@@ -6,6 +6,12 @@ subtitle: Current and past group members
 
 <img src="/assets/img/haughton_formation.jpeg" alt="haughton_formation"/> 
 
+## Faculty 
+
+<img src="/assets/img/shawn.png" align="left" width="150px" style="margin-right: 1.5rem"/>
+<strong>Shawn Chartrand</strong>: Shawn is an assistant professor at Simon Fraser University and is the lead researcher in the Landscape Dynamics Lab. He is broadly curious about how rivers and landscapes interact, from dam removal projects in California to the dynamics of ice-wedge polygons in the High Arctic. Prior to completing his PhD at the University of British Columbia, Shawn gained twenty years of experience working as a professional hydrologist and geomorphologist in Berkeley, California.
+<br clear="left"/>
+
 ## PhD students 
 
 <img src="/assets/img/jonas.jpg" align="left" width="150px" style="margin-right: 1.5rem"/>
