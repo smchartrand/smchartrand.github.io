@@ -4,7 +4,7 @@ title: Team
 subtitle: Current and past group members
 ---
 
-<img src="/assets/img/haughton.jpg" alt="camp"/> 
+<img src="/assets/img/haughton_formation.jpeg" alt="haughton_formation"/> 
 
 ## PhD students 
 
@@ -27,3 +27,4 @@ subtitle: Current and past group members
 ___ 
 # Previous members
 
+<img src="/assets/img/grace_hill.jpeg" alt="grace_hill"/> 
