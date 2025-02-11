@@ -7,6 +7,32 @@ title: Publications
 
 # Peer-reviewed papers 
 
+* Hibbard, S., Osinski, G., Godin, E., Kukko, A., Boucher, W., Grau, A., Jellinek, A.M., Chartrand, S.M., Andras, C. Glacial Ring Forms on Axel Heiberg Island, Nunavut, Canada. Accepted at The Cryosphere.
+
+* Lei, Y., Viparelli, E., Hassan, M.A., Chartrand, S.M., An, C., Fu, X., & Hu, C. (2024). [**Theoretical solution linking channel width and pool-riffle bed level perturbations**](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2024JF007641). Journal of Geophysical Research: Earth Surface, 129, e2024JF007641. doi.org/10.1029/2024JF007641
+
+* Anderson, S., & Chartrand, S.M. (2024). [**The streamflow response to multi-day warm anomaly events: Sensitivity to future warming and spatiotemporal variability by event magnitude**](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024EF004962). Earth's Future, 12, e2024EF004962. doi.org/10.1029/2024EF004962
+
+* Anderson, S., Chartrand, S.M. (2024). [**A Century of Variability of Heatwave-Driven Streamflow in Melt-Driven Basins and Implications under Climate Change**](https://iopscience.iop.org/article/10.1088/1748-9326/ad7ede). Environmental Research Letters 19(11), doi.org/10.1088/1748-9326/ad7ede.
+
+* Hassan, M.A., Pierce, J.K., & Chartrand, S.M. (2024). [**Sediment storage and fluvial sediment transport linkages across an experimental flood sequence**](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024JF007772). Journal of Geophysical Research: Earth Surface, 129, e2024JF007772. doi.org/10.1029/2024JF007772
+
+* Naman, S.M., Pitman, K.J., Cunningham, D.S., Potapova, A., Chartrand, S.M., Sloat, M. R., & Moore, J. W. (2024). [**Forestry impacts on stream flows and temperatures: A quantitative synthesis of paired catchment studies across the Pacific salmon range**](https://besjournals.onlinelibrary.wiley.com/doi/10.1002/2688-8319.12328). Ecological Solutions and Evidence, 5, e12328. doi.org/10.1002/2688-8319.12328
+
+* Lei, Y ., Hassan, M.A., Viparelli, E., Chartrand, S.M., An, C., Fu, X., Hu, C (2023). [**The effect of sediment supply on the steady-state pool-riffle morphology**](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023WR035983). Water Resources Research, 59, e2023WR035983. doi.org/10.1029/2023WR035983.
+
+* Chartrand, S.M., Jellinek, A.M., Galofre, A.G., Kukko, A., Osinski, G., Hibbard, S (2023). [**High Arctic channel incision modulated by climate change and the emergence of polygonal ground**](https://www.nature.com/articles/s41467-023-40795-9). Nature Communications, 14, 5297, 10.1038/s41467-023-40795-9.
+
+* Chartrand, S.M., Jellinek, A.M., Hassan, M.A., & Ferrer-Boix, C. (2023). [**Coupling between downstream variations of channel width and local pool–riffle bed topography**](https://esurf.copernicus.org/articles/11/1/2023/), Earth Surf. Dynamics 11, 1–20, doi.org/10.5194/esurf-11-1-2023.
+
+* Hassan, M.A., Chartrand, S.M., Radić, V ., Ferrer-Boix, C., Buckrell, E., & McDowell, C. (2022). [**Experiments on the sediment transport along pool-riffle unit**](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2022WR032796). Water Resources Research, 58, e2022WR032796. doi.org/10.1029/2022WR032796.
+
+* Zwiep, S, Chartrand, S.M. (2022). [**py_SBeLT: A Python software for stochastic sediment transport under rarefied conditions**](https://joss.theoj.org/papers/10.21105/joss.04282). Journal of Open Source Software, 7(74), 4282, doi.org/10.21105/joss.04282.
+
+* Chartrand, S.M. (2022). [**Environmental Planning of River Corridors Considering Climate Change: A Brief Perspective**](https://link.springer.com/chapter/10.1007/978-981-16-9933-7_2). In: Chembolu, V ., Dutta, S. (eds) Recent Trends in River Corridor Management. Lecture Notes in Civil Engineering, vol 229. Springer, Singapore. doi.org/10.1007/978-981-16-9933-7_2
+
+* Wright, M., Vendetti, J., Li, T., Hurson, M., Chartrand S.M., Rennie, C., and Church, M. (2022). [**Covariation in width and depth in bedrock rivers. Earth Surface Processes and Landforms**](https://onlinelibrary.wiley.com/doi/10.1002/esp.5335), 1– 13. doi.org/10.1002/esp.5335
+
 * Hassan, M.A.,  Radić, V., Buckrell, E., Chartrand, S.M., and McDowell, C (2021). [**Pool-riffle adjustment due to changes in flow and sediment supply.**](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2020WR028048) Water Resources Research, 57(2), doi:10.1029/2020WR028048. 
 
 * Zhang, C., Xu, M., Hassan, M.A., Chartrand, S.M., Wang, Z, Ma, Z., 2019. [**Experiment on morphological and hydraulic adjustments of step-pool unit to flow increase.**](https://onlinelibrary.wiley.com/doi/abs/10.1002/esp.4722) Earth Surface Processes and Landforms, doi.org/10.1002/esp.4722. 
@@ -30,6 +56,8 @@ title: Publications
 * Chartrand, S.M., and Whiting, P.J., 2000. [**Alluvial architecture in headwater streams with special emphasis on step-pool topography.**](https://onlinelibrary.wiley.com/doi/abs/10.1002/1096-9837%28200006%2925%3A6%3C583%3A%3AAID-ESP92%3E3.0.CO%3B2-3) Earth Surface Processes and Landforms, 25: 583-600, doi.org/10.1002/1096-9837(200006)25:6<583::AID-ESP92>3.0.CO;2-3. 
 
 # Datasets 
+
+* Chartrand, S.M., Jellinek, A.M., Galofre, A.G., Kukko, A., Osinski, G., Hibbard, S (2023). [**Topography data, scripts and model setup files for interplay between climate, polygons and channel formation in Muskox Valley, Axel Heiberg Island, NU**](https://figshare.com/articles/journal_contribution/Topography_data_scripts_and_model_setup_files_for_interplay_between_climate_polygons_and_channel_formation_in_Muskox_Valley_Axel_Heiberg_Island_NU/19790491/1). figshare. Journal contribution. doi.org/10.6084/m9.figshare.19790491.v1
 
 * Chartrand, S.M., Furbish, D. J., & Hassan, M. A. (2020). [**Experimental sediment transport data using a light table device and analysis scripts.**](https://figshare.com/articles/dataset/PRE1_t1910_4_32mm_Raw_txt/12268727/3) figshare. doi.org/10.6084/m9.figshare.12268727.v3
 
