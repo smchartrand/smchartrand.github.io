@@ -5,6 +5,8 @@ title: Teaching
 
 <img src="/assets/img/atv_terrain.jpeg" alt="camp"/> 
 
+## Courses taught at SFU
+
 **Introduction to Science Philosophy for Ecological Restoration**
 
 Graduate course. Developed the course to introduce students to the philosophy of science. Course involves
@@ -20,7 +22,8 @@ involved weekly reading summaries, a writing project to evaluate a noteworthy Ca
 with relation to environmental review, and a final writing project to examine the question What is Nature? 
 
 ___
-**Introduction to Environmental Science**
+**Introduction to Environmental Science (EVSC 100)** 
+
 Undergraduate course. Developed the course to introduce students to a broad overview of environmental science
 built around the core theme of the Planetary Boundaries concept. The class content is broken down into 9
 different boundaries, supplemented with more in depth review of climate change and nature based solutions to
