@@ -15,13 +15,25 @@ subtitle: Current and past group members
 ## PhD students 
 
 <img src="/assets/img/jonas.jpg" align="left" width="150px" style="margin-right: 1.5rem"/>
-<strong>Jonas Eschenfelder</strong>: Jonas is interested in how ground ice changes sediment transport dynamics to form new channel networks in permafrost regions. To explore this topic, they use flume experiments and field observations from the Canadian High Arctic.
+<strong>Jonas Eschenfelder</strong>: Jonas is interested in how ground ice changes sediment transport dynamics to form new channel networks in permafrost regions. To explore this topic, they use flume experiments and field observations from the Canadian High Arctic. 
+<br>
+<strong>Home unit:</strong> Earth Sciences.
+<br clear="left"/>
+
+<br>
+
+<img src="/assets/img/Daphnee.png" align="left" width="150px" style="margin-right: 1.5rem"/>
+<strong>Daphnee Tuzlak</strong>: Daphnee is a fluvial geomorphologist passionate about stewardship of river systems who links their work in river science to social change through developing interdisciplinary research teams, strengthening relationships and advocacy. 
+<br>
+<strong>Home unit:</strong> Resource and Environmental Management.
 <br clear="left"/>
 
 ## MSc students 
 
 <img src="/assets/img/grace.jpg" align="left" width="150px" style="margin-right: 1.5rem"/>
-<strong>Grace Johnson</strong>: Grace uses applied physics to develop theories that explain how hillslope water streaks form and evolve in the Canadian High Arctic. Her research has implications for understanding how river basin hydrology will evolve more broadly in permafrost and periglacial environments under climate change.
+<strong>Grace Johnson</strong>: Grace uses applied physics to develop theories that explain how hillslope water streaks form and evolve in the Canadian High Arctic. Her research has implications for understanding how river basin hydrology will evolve more broadly in permafrost and periglacial environments under climate change. 
+<br>
+<strong>Home unit:</strong> Physics.
 <br clear="left"/>
 
 ## Postdoctoral research fellows
