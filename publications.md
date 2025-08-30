@@ -66,3 +66,5 @@ title: Publications
 2. Chartrand, S.M., Jellinek, M., Hassan, M.A., Ferrer-Boix, C., 2017. [**Experimental data set for morphodyanmics of a width-variable gravel-bed stream: new insights on pool-riffle formation.**](https://data.mendeley.com/datasets/zmjvt32gj3/3) Mendeley Data, dx.doi.org/10.17632/zmjvt32gj3.3.
 
 1. Chartrand, S.M., 2017. [**Gravel mixture sediment transport videos from a straight-walled flume.**](https://data.mendeley.com/datasets/4z7fspfcpv/1) Mendeley Data, dx.doi.org/10.17632/4z7fspfcpv.1.
+
+{: reversed="reversed"}
