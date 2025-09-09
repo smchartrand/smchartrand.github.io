@@ -32,6 +32,20 @@ Mountain streams commonly exhibit pool-riffle and step-pool riverbed shapes, and
 
 ___ 
 
+*September 1, 2025*
+
+"Congrats to LDL postdoc Sam Anderson, who is continuing his postdoc jointly between SFU and Columbia University, working with professor Radley Horton as a visiting postdoctoral scholar."
+
+___ 
+
+*August 19, 2025*
+
+"Congrats to Sam and Shawn for publishing their latest paper, "On the mean precipitation characteristics of North American heatwaves", in Environmental Research: Water!"
+
+[**Link to paper in Environmental Research: Water**](https://iopscience.iop.org/article/10.1088/3033-4942/adf6cf)
+
+___ 
+
 *February 7, 2025* 
 
 LDL postdoc Sam Anderson submitted a short film to the 2025 Polar Film Festival, exploring our 2024 field season on Devon Island, Nunavut. Check out the video below!
