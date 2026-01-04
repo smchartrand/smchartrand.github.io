@@ -39,7 +39,13 @@ subtitle: Current and past group members
 ## Postdoctoral research fellows
 
 <img src="/assets/img/sam.jpg" align="left" width="150px" style="margin-right: 1.5rem"/>
-<strong>Sam Anderson</strong>: Sam researches the hydrological impacts of heatwaves, focusing on the streamflow response to historical extreme events and the spatial and temporal variability of heatwave-precipitation characteristics.
+<strong>Sam Anderson</strong>: Sam researches the hydrological impacts of heatwaves, focusing on the streamflow response to historical extreme events and the spatial and temporal variability of heatwave-precipitation characteristics. Dr. Anderson received his PhD from the University of British Columbia working with Professor Valentina Radic in the Department of Earth, Ocean and Atmospheric Sciences.
+<br clear="left"/>
+
+<br>
+
+<img src="/assets/img/Sjoukje.JPG" align="left" width="150px" style="margin-right: 1.5rem"/>
+<strong>Sjoukje de Lange</strong>: Sjoukje researches erosional mechanisms in permafrost and ice-rich environments. Dr. de Lange received her PhD from Wageningen University working with Professor Ton Hoitink and Dr. Kryss Waldschläger in the Environmental Fluid Mechanics Group.
 <br clear="left"/>
 
 ___ 
