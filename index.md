@@ -32,6 +32,12 @@ Mountain streams commonly exhibit pool-riffle and step-pool riverbed shapes, and
 
 ___ 
 
+*Janaury 1, 2026*
+
+"The Landscape Dynamics Lab is very happy to have Dr. Sjoukje de Lange as a new postdoctoral fellow and lab colleague working on Erosional Mechanisms in Permafrost and Ice-Rich Environments (EMPIRE) funded by a Rubicon grant from the Netherlands Organisation for Scientific Research (NWO)."
+
+___ 
+
 *September 1, 2025*
 
 "Congrats to LDL postdoc Sam Anderson, who is continuing his postdoc jointly between SFU and Columbia University, working with professor Radley Horton as a visiting postdoctoral scholar."
