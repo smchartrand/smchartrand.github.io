@@ -30,6 +30,28 @@ Mountain streams commonly exhibit pool-riffle and step-pool riverbed shapes, and
 
 # News of the lab 
 
+*May 7th, 2026*
+
+"Welcome Alyssa Moeller to the Landscape Dynamics Lab as a new MSc student in the School of Environmental Science. Alyssa will be working on the NSERC Alliance funded Alpine Horizons project investigating runoff and water availability in the small headwaters of Garibaldi Provincial Park."
+
+[**Link to paper in Communications Earth \& Environment**](https://www.nature.com/articles/s43247-026-03468-1)
+
+*March 30, 2026*
+
+"Huge congratualtions to Jonas Eschenfelder for publishing the first chapter from their PhD dissertation in Communications Earth \& Environment, "Seasonal freezing increases High Arctic erosion and landscape response to climate extremes". The research is based on a novel flume experiment setup which involves placing an entire flume in a commercial freezer, permitting Jonas to examine how thawing of sediment beds influences particle entrainment and flux. The main results are curious and exciting, opening a whole new line of questions for future efforts."
+
+[**Link to paper in Communications Earth \& Environment**](https://www.nature.com/articles/s43247-026-03468-1)
+
+___ 
+
+*March 26, 2026*
+
+"Shawn published a paper in the Journal of Geophysical Research - Earth Surface examining collective particle entrainment using experimental data, exploratory transfer functions and information theory. The research would not have been possible without support from David Furbish."
+
+[**Link to paper in JGR Earth Surface**](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2025JF008657)
+
+Update: Shawn's collective entrainment research has now been featured as an Editors Highlight in EOS: [**Link to paper in EOS**](https://eos.org/editor-highlights/small-and-large-grains-move-differently-in-water)
+
 ___ 
 
 *Janaury 1, 2026*
