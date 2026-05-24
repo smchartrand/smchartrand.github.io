@@ -38,19 +38,25 @@ ___
 
 *March 30, 2026*
 
-"Huge congratualtions to Jonas Eschenfelder for publishing the first chapter from their PhD dissertation in Communications Earth \& Environment, "Seasonal freezing increases High Arctic erosion and landscape response to climate extremes". The research is based on a novel flume experiment setup which involves placing an entire flume in a commercial freezer, permitting Jonas to examine how thawing of sediment beds influences particle entrainment and flux. The main results are curious and exciting, opening a whole new line of questions for future efforts."
+"Huge congratualtions to Jonas Eschenfelder for publishing the first chapter from their PhD dissertation in <i>Communications Earth & Environment<i>, "Seasonal freezing increases High Arctic erosion and landscape response to climate extremes". The research is based on a novel flume experiment setup which involves placing an entire flume in a commercial freezer, permitting Jonas to examine how thawing of sediment beds influences particle entrainment and flux. The main results are curious and exciting, opening a whole new line of questions for future efforts."
 
-[**Link to paper in Communications Earth \& Environment**](https://www.nature.com/articles/s43247-026-03468-1)
+[**Link to paper in Communications Earth & Environment**](https://www.nature.com/articles/s43247-026-03468-1)
 
 ___ 
 
 *March 26, 2026*
 
-"Shawn published a paper in the Journal of Geophysical Research - Earth Surface examining collective particle entrainment using experimental data, exploratory transfer functions and information theory. The research would not have been possible without support from David Furbish."
+"Shawn published a paper in the <i>Journal of Geophysical Research - Earth Surface<i> examining collective particle entrainment using experimental data, exploratory transfer functions and information theory. The research would not have been possible without support from David Furbish."
 
 [**Link to paper in JGR Earth Surface**](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2025JF008657)
 
 Update: Shawn's collective entrainment research has now been featured as an Editors Highlight in EOS: [**Link to paper in EOS**](https://eos.org/editor-highlights/small-and-large-grains-move-differently-in-water)
+
+___ 
+
+*March 5, 2026*
+
+"Congratulations to Jonas for securing Mitacs funding to complete a research exchange in the Fall 2026 with Professors Rebecca Hodge at Durham University and Stephen Rice at Manchester Metropolitan University. Jonas will work with Rebecca and Stephen to build new experiments to test findings from Jonas's frozen-bed research in more detail (see news above on March 30, 2026), focusing on controls related to subsurface boundary geometry."
 
 ___ 
 
@@ -68,7 +74,7 @@ ___
 
 *August 19, 2025*
 
-"Congrats to Sam and Shawn for publishing their latest paper, "On the mean precipitation characteristics of North American heatwaves", in Environmental Research: Water!"
+"Congrats to Sam and Shawn for publishing their latest paper, "On the mean precipitation characteristics of North American heatwaves", in <i>Environmental Research: Water<i>!"
 
 [**Link to paper in Environmental Research: Water**](https://iopscience.iop.org/article/10.1088/3033-4942/adf6cf)
 
