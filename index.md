@@ -34,7 +34,7 @@ Mountain streams commonly exhibit pool-riffle and step-pool riverbed shapes, and
 
 "Welcome Alyssa Moeller to the Landscape Dynamics Lab as a new MSc student in the School of Environmental Science. Alyssa will be working on the NSERC Alliance funded Alpine Horizons project investigating runoff and water availability in the small headwaters of Garibaldi Provincial Park."
 
-[**Link to paper in Communications Earth \& Environment**](https://www.nature.com/articles/s43247-026-03468-1)
+___ 
 
 *March 30, 2026*
 
