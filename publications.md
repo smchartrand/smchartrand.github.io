@@ -7,6 +7,12 @@ title: Publications
 
 # Peer-reviewed papers 
 
+28\. Chartrand, S.M., Eschenfelder, J. (2026). [**River dynamics in a warming climate](https://www.science.org/doi/10.1126/science.aeh5488). Science 392, 689-690. doi:10.1126/science.aeh5488.
+    
+27\. Eschenfelder, J., Chartrand, S.M., Jellinek, A.M. and Culha, C. [**Seasonal freezing increases High Arctic erosion and landscape response to climate extremes](https://doi.org/10.1038/s43247-026-03468-1). Communications Earth & Environment 7, 388. doi.org/10.1038/s43247-026-03468-1.
+
+26\. Chartrand, S.M. (2026). [**Collective particle entrainment explored with experimental data and coupled transfer functions**](https://doi.org/10.1029/2025JF008657). Journal of Geophysical Research–Earth Surface, 131, e2025JF008657. doi.org/10.1029/2025JF008657
+
 25\. Anderson, S., & Chartrand, S.M. (2025). [**On the mean precipitation characteristics of North American heatwaves**](https://https://iopscience.iop.org/article/10.1088/3033-4942/adf6cf). Environmental Research: Water, 1 035001. doi.org/10.1088/3033-4942/adf6cf 
 
 24\. Hibbard, S., Osinski, G., Godin, E., Kukko, A., Boucher, W., Grau, A., Jellinek, A.M., Chartrand, S.M., Andras, C. [**Glacial Ring Forms on Axel Heiberg Island, Nunavut, Canada**](https://tc.copernicus.org/articles/19/1695/2025/). The Cryosphere, 19, 1695–1716, https://doi.org/10.5194/tc-19-1695-2025
