@@ -15,7 +15,7 @@ title: Publications
 
 25\. Anderson, S., & Chartrand, S.M. (2025). [**On the mean precipitation characteristics of North American heatwaves**](https://https://iopscience.iop.org/article/10.1088/3033-4942/adf6cf). Environmental Research: Water, 1 035001. doi.org/10.1088/3033-4942/adf6cf. 
 
-24\. Hibbard, S., Osinski, G., Godin, E., Kukko, A., Boucher, W., Grau, A., Jellinek, A.M., Chartrand, S.M., Andras, C. [**Glacial Ring Forms on Axel Heiberg Island, Nunavut, Canada**](https://tc.copernicus.org/articles/19/1695/2025/). The Cryosphere, 19, 1695–1716, doi.org/10.5194/tc-19-1695-2025.
+24\. Hibbard, S., Osinski, G., Godin, E., Kukko, A., Boucher, W., Grau, A., Jellinek, A.M., Chartrand, S.M., Andras, C. [**Glacial Ring Forms on Axel Heiberg Island, Nunavut, Canada**](https://tc.copernicus.org/articles/19/1695/2025/). The Cryosphere, 19, 1695–1716. doi.org/10.5194/tc-19-1695-2025.
 
 23\. Lei, Y., Viparelli, E., Hassan, M.A., Chartrand, S.M., An, C., Fu, X., & Hu, C. (2024). [**Theoretical solution linking channel width and pool-riffle bed level perturbations**](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2024JF007641). Journal of Geophysical Research: Earth Surface, 129, e2024JF007641. doi.org/10.1029/2024JF007641.
 
