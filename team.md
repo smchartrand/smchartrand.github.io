@@ -38,7 +38,7 @@ subtitle: Current and past group members
 
 <br>
 
-<img src="/assets/img/AM_Wading_measurment_2025.jpg" align="left" width="150px" style="margin-right: 1.5rem"/>
+<img src="/assets/img/AM_Wading_measurement_2025.jpg" align="left" width="150px" style="margin-right: 1.5rem"/>
 <strong>Alyssa Moeller</strong>: Alyssa is a geomorphologist and hydrologist who is part of the NSERC Alliance Alpine Horizons team investigating water availability in small headwaters of Garibaldi Provincial Park. Her research has implications for understanding how terrestrial habitats in the park may change under a warming climate with more precipitation variability. 
 <br>
 <strong>Home unit:</strong> School of Environmental Science.
