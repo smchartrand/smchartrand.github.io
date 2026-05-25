@@ -50,7 +50,7 @@ ___
 
 [**Link to paper in JGR Earth Surface**](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2025JF008657)
 
-Update: Shawn's collective entrainment research has now been featured as an Editors Highlight in EOS: [**Link to paper in EOS**](https://eos.org/editor-highlights/small-and-large-grains-move-differently-in-water)
+Update: Shawn's collective entrainment research has now been featured as an Editors Highlight in EOS: [**Link to highlight in EOS**](https://eos.org/editor-highlights/small-and-large-grains-move-differently-in-water)
 
 ___ 
 
