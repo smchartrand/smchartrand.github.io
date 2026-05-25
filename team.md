@@ -8,7 +8,7 @@ subtitle: Current and past group members
 
 ## Faculty 
 
-<img src="/assets/img/shawn.png" align="left" width="150px" style="margin-right: 1.5rem"/>
+<img src="/assets/img/IMG_3510.png" align="left" width="150px" style="margin-right: 1.5rem"/>
 <strong>Shawn Chartrand</strong>: Shawn is an assistant professor at Simon Fraser University and is the lead researcher in the Landscape Dynamics Lab. He is broadly curious about how rivers and landscapes interact, from dam removal projects in California to the dynamics of ice-wedge polygons in the High Arctic. Prior to completing his PhD at the University of British Columbia, Shawn gained fifteen years of experience working as a professional hydrologist and geomorphologist in Berkeley, California.
 <br clear="left"/>
 
@@ -31,10 +31,19 @@ subtitle: Current and past group members
 ## MSc students 
 
 <img src="/assets/img/grace.jpg" align="left" width="150px" style="margin-right: 1.5rem"/>
-<strong>Grace Johnson</strong>: Grace uses applied physics to develop theories that explain how hillslope water streaks form and evolve in the Canadian High Arctic. Her research has implications for understanding how river basin hydrology will evolve more broadly in permafrost and periglacial environments under climate change. 
+<strong>Grace Johnson</strong>: Grace uses applied physics to develop theories that explain how hillslope sorted stripes form and evolve in the Canadian High Arctic. Her research has implications for understanding how river basin hydrology will evolve more broadly in permafrost and periglacial environments under climate change. 
 <br>
 <strong>Home unit:</strong> Physics.
 <br clear="left"/>
+
+<br>
+
+<img src="/assets/img/AM_Wading_measurment.jpg" align="left" width="150px" style="margin-right: 1.5rem"/>
+<strong>Alyssa Moeller</strong>: Alyssa is a geomorphologist and hydrologist who is part of the NSERC Alliance Alpine Horizons team investigating water availability in small headwaters of Garibaldi Provincial Park. Her research has implications for understanding how terrestrial habitats in the park may change under a warming climate with more precipitation variability. 
+<br>
+<strong>Home unit:</strong> School of Environmental Science.
+<br clear="left"/>
+
 
 ## Postdoctoral research fellows
 
