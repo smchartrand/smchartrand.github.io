@@ -5,7 +5,7 @@ subtitle: Shawn M. Chartrand, PhD, P.G., CEG
 ---
 <meta name="Shawn Chartrand's research website for the Landscape Dynamics Lab at Simon Fraser University, Canada">
 
-<img src="/assets/img/camp.jpeg" alt="camp"/> 
+<img src="/assets/img/camp.jpeg" alt="Main basecamp on Devon Island, Haughton Impact Crater."/> 
 
 **In the Landscape Dynamics Lab, we are curious about the links between climate, water, and landscapes.** Based out of the School of Environmental Science at Simon Fraser University, we bridge geophysics, geomorphology, hydrology, and applied math in conducting our research, which commonly applies a variety of methods from fieldwork, laboratory experiments, and data science. 
 
