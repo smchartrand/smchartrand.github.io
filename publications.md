@@ -7,7 +7,7 @@ title: Publications
 
 # Peer-reviewed papers 
 
-28\. Chartrand, S.M., Eschenfelder, J. (2026). [**River dynamics in a warming climate**](https://www.science.org/doi/10.1126/science.aeh5488). Science 392, 689-690. doi:10.1126/science.aeh5488.
+28\. Chartrand, S.M. and Eschenfelder, J. (2026). [**River dynamics in a warming climate**](https://www.science.org/doi/10.1126/science.aeh5488). Science 392, 689-690. doi:10.1126/science.aeh5488.
     
 27\. Eschenfelder, J., Chartrand, S.M., Jellinek, A.M. and Culha, C. [**Seasonal freezing increases High Arctic erosion and landscape response to climate extremes**](https://doi.org/10.1038/s43247-026-03468-1). Communications Earth & Environment 7, 388. doi.org/10.1038/s43247-026-03468-1.
 
