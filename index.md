@@ -3,6 +3,7 @@ layout: home
 title: Landscape Dynamics Lab
 subtitle: Shawn M. Chartrand, PhD, P.G., CEG
 ---
+<meta name="Shawn Chartrand's research website for the Landscape Dynamics Lab at Simon Fraser University, Canada">
 
 <img src="/assets/img/camp.jpeg" alt="camp"/> 
 
